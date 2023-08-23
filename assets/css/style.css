@@ -74,6 +74,8 @@ a {
   position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+
 }
 
 .navbar {
@@ -113,10 +115,6 @@ a {
 .navbar .actions-btn {
   padding: 13px 16px;
   border-radius: 8px;
-}
-
-.hero {
-  margin-top: 130px;
 }
 
 .hero .info {
